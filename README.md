@@ -14,9 +14,9 @@ M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/hea
 
 `Alt Playlist and Epg:`
 
-M3U: [https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
+M3U: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
 
-EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u
+EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
 
 Credit: https://github.com/mikekaprielian
 
@@ -47,6 +47,7 @@ M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/ref
 
 ##  Website: [https://streamed.pk](https://streamed.pk)
 💥 M3U: [https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8)
+
 
 
 
