@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-10-18 04:19:11
+# Last Updated: 2025-10-18 05:15:31
 #EXTINF:-1 group-title="MLB",10/17/25 06:09:00 PM EST = Toronto Blue Jays @ Seattle Mariners
 https://v2.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=SNm0YVwDWPMWImAyYVzUmA&expires=1760781006&user_id=bHhiMm5zTjNnNWUxa0pDZzBPeEhMRHVDcUxFaUk0amRuQVU4aUtCUw==
 #EXTINF:-1 group-title="MLB",10/17/25 08:38:00 PM EST = Milwaukee Brewers @ Los Angeles Dodgers
