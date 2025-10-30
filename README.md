@@ -1,4 +1,13 @@
-##  📺 Buddy TV
+![alt text](https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/Gemini_Generated_Image_qek3m4qek3m4qek3.png?raw=true "Buddy Live")
+
+
+---------------------------------------------
+
+📌 Discord: https://discord.gg/fnsWGDy2mm
+
+🍺 https://buymeacoffee.com/buddychewchew
+
+---------------------------------------------
 
 
 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
@@ -50,6 +59,7 @@ M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/ref
 ## GREAT EPG TO USE TO FILL HOLES
 
 XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+
 
 
 
