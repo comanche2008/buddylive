@@ -56,9 +56,13 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 ##  Website: [https://streamed.pk](https://streamed.pk)
 💥 M3U: [https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8)
 
+Website: https://pixelsport.tv/
+💥  M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Pixelsports.m3u8 
+
 ## GREAT EPG TO USE TO FILL HOLES
 
 XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+
 
 
 
