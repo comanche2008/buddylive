@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-06 21:15:48
+# Last Updated: 2025-11-06 22:16:34
 #EXTINF:-1 group-title="NHL",11/06/25 07:00:00 PM EST = Ottawa Senators @ Boston Bruins
 https://v5.thetvapp.to/hls/NHL03/tracks-v1a1/mono.m3u8?token=Caw4ZHGLHuGoR6f14ivPPQ&expires=1762480043&user_id=Q3BtbXE4OWlTY2VsSmdOVmhYeXhjMldkM2VXSEdERzZpSmJueW9Rdw==
 #EXTINF:-1 group-title="NHL",11/06/25 07:00:00 PM EST = St Louis Blues @ Buffalo Sabres
