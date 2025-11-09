@@ -1,4 +1,4 @@
-name: 🔁 Update buddylive_v1
+name: ▶️ Update buddylive_v1
 
 on:
   schedule:
@@ -86,6 +86,6 @@ jobs:
     - name: Commit and push changes
       if: steps.git-check.outputs.changes_detected == 'true'
       run: |
-        git commit -m "🔁 Update M3U playlist [skip ci]"
+        git commit -m "🔁 Updated and Merged"
         git pull --rebase origin main
         git push
