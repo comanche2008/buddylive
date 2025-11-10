@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-11-10 20:21:01
+# Last Updated: 2025-11-10 21:16:02
 #EXTINF:-1 group-title="NBA",11/10/25 07:00:00 PM EST = Washington Wizards @ Detroit Pistons
 https://v15.thetvapp.to/hls/NBA20/tracks-v1a1/mono.m3u8?token=8bJEzXrwT4qGynXeTZkd6g&expires=1762825648&user_id=ZW9DalZTUjVDYjIzNE01YnNKMU1OTDMxVEhlbDBLcWFPTGZxYUVzaQ==
 #EXTINF:-1 group-title="NBA",11/10/25 07:10:00 PM EST = Los Angeles Lakers @ Charlotte Hornets
