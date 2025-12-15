@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-12-14 23:36:57
+# Last Updated: 2025-12-15 02:31:19
 #EXTINF:-1 group-title="NHL",12/14/25 12:40:00 PM EST = Vancouver Canucks @ New Jersey Devils
 https://v16.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=JwSbAk6l00MO8VfL7MucTw&expires=1765773090&user_id=OFJkY1VQRFhjQVlKVUJEemNHbnFLQzlha1A4NDhvVHY1dnY1UkxBTg==
 #EXTINF:-1 group-title="NHL",12/14/25 03:10:00 PM EST = Utah Mammoth @ Pittsburgh Penguins
