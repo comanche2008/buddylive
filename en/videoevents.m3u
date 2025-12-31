@@ -1,25 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="NCAAF",12/30/25 02:00:00 PM EST = Coastal Carolina Chanticleers @ Louisiana Tech Bulldogs
-https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=74uvURIFAZw9Zxyk1H0izQ&expires=1767178134&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NCAAF",12/30/25 05:30:00 PM EST = Tennessee Volunteers @ Illinois Fighting Illini
-https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=oCkXI4P2_LWoyOZEge8_Cw&expires=1767178144&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NCAAF",12/30/25 09:00:00 PM EST = USC Trojans @ TCU Horned Frogs
-https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=02WU-gZq-RaRKr50n79IHA&expires=1767178154&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NHL",12/30/25 07:10:00 PM EST = Carolina Hurricanes @ Pittsburgh Penguins
-https://e1.thetvapp.to/hls/NHL04/tracks-v1a1/mono.m3u8?token=oo2xzQYUd2l32gwpYeZbJQ&expires=1767178165&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NHL",12/30/25 07:10:00 PM EST = Montréal Canadiens @ Florida Panthers
-https://v1.thetvapp.to/hls/NHL07/tracks-v1a1/mono.m3u8?token=7kgAumKloSluEiQ2x5pjTQ&expires=1767178175&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NHL",12/30/25 07:10:00 PM EST = New Jersey Devils @ Toronto Maple Leafs
-https://v15.thetvapp.to/hls/NHL26/tracks-v1a1/mono.m3u8?token=HRrY5RTDWMObBvVybE32Lg&expires=1767178185&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NHL",12/30/25 08:40:00 PM EST = New York Islanders @ Chicago Blackhawks
-https://v14.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=yEzmy0Zq6tH9lSqPRDHeTQ&expires=1767178195&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NHL",12/30/25 10:10:00 PM EST = Philadelphia Flyers @ Vancouver Canucks
-https://v4.thetvapp.to/hls/NHL21/tracks-v1a1/mono.m3u8?token=OPZgi65Bvpy9P9mB42jhhg&expires=1767178205&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NBA",12/30/25 08:10:00 PM EST = Philadelphia 76ers @ Memphis Grizzlies
-https://e3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=2VO6ci9X2xPs9vVkIaLhTA&expires=1767178216&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NBA",12/30/25 09:10:00 PM EST = Boston Celtics @ Utah Jazz
-https://v8.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=Fu3-ac3HhUjToH1ZTm6s0g&expires=1767178226&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NBA",12/30/25 10:40:00 PM EST = Detroit Pistons @ Los Angeles Lakers
-https://e4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=f5PqJ6d2HwCytHHgvjSb8w&expires=1767178236&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
-#EXTINF:-1 group-title="NBA",12/30/25 11:10:00 PM EST = Sacramento Kings @ Los Angeles Clippers
-https://v12.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=HLlv9s9pwgIuBpRPGScOvg&expires=1767178246&user_id=VnlCcUlaMUx6bHVQQkhkUU1pajhBRHVUMm1qckVzMVZuZ09teUxCMw==
+#EXTINF:-1 group-title="NCAAF",12/31/25 12:00:00 PM EST = Iowa Hawkeyes @ Vanderbilt Commodores
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",12/31/25 02:00:00 PM EST = Arizona State Sun Devils @ Duke Blue Devils
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",12/31/25 03:00:00 PM EST = Michigan Wolverines @ Texas Longhorns
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",12/31/25 03:30:00 PM EST = Nebraska Cornhuskers @ Utah Utes
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",12/31/25 07:30:00 PM EST = Miami Hurricanes @ Ohio State Buckeyes
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 12:30:00 PM EST = New York Rangers @ Washington Capitals
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 03:00:00 PM EST = Nashville Predators @ Vegas Golden Knights
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 04:00:00 PM EST = Minnesota Wild @ San Jose Sharks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 04:00:00 PM EST = Tampa Bay Lightning @ Anaheim Ducks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 06:30:00 PM EST = Winnipeg Jets @ Detroit Red Wings
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 07:00:00 PM EST = New Jersey Devils @ Columbus Blue Jackets
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 08:00:00 PM EST = Buffalo Sabres @ Dallas Stars
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 09:00:00 PM EST = St Louis Blues @ Colorado Avalanche
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 09:30:00 PM EST = Boston Bruins @ Edmonton Oilers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",12/31/25 09:30:00 PM EST = Philadelphia Flyers @ Calgary Flames
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 01:10:00 PM EST = Golden State Warriors @ Charlotte Hornets
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 03:10:00 PM EST = Minnesota Timberwolves @ Atlanta Hawks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 03:10:00 PM EST = Orlando Magic @ Indiana Pacers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 03:40:00 PM EST = Phoenix Suns @ Cleveland Cavaliers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 07:10:00 PM EST = New York Knicks @ San Antonio Spurs
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 07:10:00 PM EST = New Orleans Pelicans @ Chicago Bulls
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 07:40:00 PM EST = Denver Nuggets @ Toronto Raptors
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 08:10:00 PM EST = Portland Trail Blazers @ Oklahoma City Thunder
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",12/31/25 08:10:00 PM EST = Washington Wizards @ Milwaukee Bucks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
