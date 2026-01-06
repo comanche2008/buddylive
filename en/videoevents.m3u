@@ -1,47 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="NHL",01/03/26 12:10:00 PM EST = Pittsburgh Penguins @ Detroit Red Wings
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 03:10:00 PM EST = Buffalo Sabres @ Columbus Blue Jackets
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 03:10:00 PM EST = Utah Mammoth @ New Jersey Devils
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 03:40:00 PM EST = Philadelphia Flyers @ Edmonton Oilers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 04:10:00 PM EST = Montréal Canadiens @ St Louis Blues
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 04:10:00 PM EST = Tampa Bay Lightning @ San Jose Sharks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 07:10:00 PM EST = Winnipeg Jets @ Ottawa Senators
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 07:10:00 PM EST = Toronto Maple Leafs @ New York Islanders
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 07:10:00 PM EST = Chicago Blackhawks @ Washington Capitals
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 07:10:00 PM EST = Colorado Avalanche @ Carolina Hurricanes
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 07:10:00 PM EST = Nashville Predators @ Calgary Flames
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 09:10:00 PM EST = Minnesota Wild @ Los Angeles Kings
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",01/03/26 10:10:00 PM EST = Boston Bruins @ Vancouver Canucks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",01/03/26 04:30:00 PM EST = Carolina Panthers @ Tampa Bay Buccaneers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",01/03/26 08:00:00 PM EST = Seattle Seahawks @ San Francisco 49ers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 05:10:00 PM EST = Minnesota Timberwolves @ Miami Heat
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 07:40:00 PM EST = Atlanta Hawks @ Toronto Raptors
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 07:40:00 PM EST = Philadelphia 76ers @ New York Knicks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 08:10:00 PM EST = Portland Trail Blazers @ San Antonio Spurs
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 08:10:00 PM EST = Charlotte Hornets @ Chicago Bulls
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 08:40:00 PM EST = Houston Rockets @ Dallas Mavericks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 10:10:00 PM EST = Utah Jazz @ Golden State Warriors
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",01/03/26 10:40:00 PM EST = Boston Celtics @ Los Angeles Clippers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",01/05/26 07:00:00 PM EST = Anaheim Ducks @ Washington Capitals
+https://v15.thetvapp.to/hls/NHL24/tracks-v1a1/mono.m3u8?token=0iVdADSv2MZ-jb8hi-Qsbw&expires=1767689189&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NHL",01/05/26 07:00:00 PM EST = Utah Mammoth @ New York Rangers
+https://e3.thetvapp.to/hls/NHL23/tracks-v1a1/mono.m3u8?token=1-OnaxL2w9p9DBlt1rq2Zg&expires=1767689199&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NHL",01/05/26 07:30:00 PM EST = Detroit Red Wings @ Ottawa Senators
+https://v1.thetvapp.to/hls/NHL06/tracks-v1a1/mono.m3u8?token=16YuGT0kvm8l_YRsxdQCig&expires=1767689209&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NHL",01/05/26 09:30:00 PM EST = Seattle Kraken @ Calgary Flames
+https://e5.thetvapp.to/hls/NHL16/tracks-v1a1/mono.m3u8?token=_D-zpPrhPMqg-j_XtqiTOg&expires=1767689220&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NHL",01/05/26 10:30:00 PM EST = Minnesota Wild @ Los Angeles Kings
+https://v12.thetvapp.to/hls/NHL11/tracks-v1a1/mono.m3u8?token=r5h_EZrJrW4tq9zAjjVOUQ&expires=1767689230&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 07:10:00 PM EST = New York Knicks @ Detroit Pistons
+https://v5.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=XFsx9ImhNsA8vif-EoXCwQ&expires=1767689240&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 07:40:00 PM EST = Atlanta Hawks @ Toronto Raptors
+https://v13.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=5OmB2b-q1HzK1oS98gpx4A&expires=1767689250&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 07:40:00 PM EST = Chicago Bulls @ Boston Celtics
+https://e5.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=SASzp087EAC0DvGAX1ewJw&expires=1767689261&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 08:10:00 PM EST = Charlotte Hornets @ Oklahoma City Thunder
+https://v4.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=_jk1n_XcjA5KRaIBQN-EGQ&expires=1767689271&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 08:10:00 PM EST = Phoenix Suns @ Houston Rockets
+https://v8.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=J5GXQi4nFkxdSfFVyjeChg&expires=1767689281&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 08:40:00 PM EST = Denver Nuggets @ Philadelphia 76ers
+https://v13.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=5-x4_nzjz7EsMubUpM-a7g&expires=1767689291&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 10:10:00 PM EST = Golden State Warriors @ Los Angeles Clippers
+https://v12.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=8wgMm0heSH_strOl8uLP1Q&expires=1767689302&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NBA",01/05/26 10:10:00 PM EST = Utah Jazz @ Portland Trail Blazers
+https://e4.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=V51LdBpqTFsUFr0jbVMSiw&expires=1767689312&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
+#EXTINF:-1 group-title="NCAAF",01/05/26 07:30:00 PM EST = Illinois State Redbirds @ Montana State Bobcats
+https://v15.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=zA-Lfs1tfFfzBBeLwdh4QA&expires=1767689322&user_id=MHVYaFo2RmxrZzY5M2JmbEExUkFtMWk3NWRKQ2ZnQ0hkQTRGQzhBSw==
